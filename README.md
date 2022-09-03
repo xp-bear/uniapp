@@ -1,0 +1,5 @@
+# uniapp学习与练习
+
+掌握基本的配置基于vue2的语法编写uniapp与微信小程序
+
+后续使用vue3的语法compositionAPI来编写uniapp
